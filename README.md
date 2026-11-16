@@ -3,16 +3,19 @@
 **Aluna:** Vania Souza
 
 ## Descrição do Portfólio
-Este site é o meu portfólio pessoal. Ele foi criado para mostrar quem eu sou, as tecnologias que estou estudando na área de Desenvolvimento de Sistemas, meus primeiros projetos e minhas formas de contato.
+
+Este site é o meu portfólio pessoal. Ele foi criado para mostrar quem sou, as tecnologias que estou estudando na área de Desenvolvimento de Sistemas, meus primeiros projetos e minhas formas de contato.
 
 ## Tecnologias Utilizadas
-* HTML5
-* CSS3
-* Bootstrap 5
-* Devicon (ícones)
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Devicon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
+</div>
 
 ## Link do Site Publicado
-Acesse o site online aqui: [Coloque o link do seu GitHub Pages aqui]
+Acesse o site online aqui:https://github.com/vaniasouza-hub/Portfolio.git
 
 ## Como o Projeto Funciona
 O site é uma página única dividida em partes:
